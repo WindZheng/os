@@ -50,7 +50,7 @@ JMP fin
 
 msg:
 DB	0x0a,0x0a
-DB	"test world!!!!"
+DB	"test world test!!!!"
 DB	0x0a
 DB	0
 
